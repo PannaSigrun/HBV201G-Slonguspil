@@ -1,0 +1,125 @@
+.black-border {
+    -fx-border-color: black;
+}
+
+.slanga, .stigi, .leikmadur0, .leikmadur1,
+.one, .two, .three, .four, .five, .six,
+.redone, .redtwo, .redthree, .redfour, .redfive, .redsix,
+.blueone, .bluetwo, .bluethree, .bluefour, .bluefive, .bluesix,
+.yellowone, .yellowtwo, .yellowthree, .yellowfour, .yellowfive, .yellowsix {
+    -fx-background-size: cover;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+.slanga {
+    -fx-background-image: url("myndir/slanga.png");
+}
+
+.stigi {
+    -fx-background-image: url("myndir/stigi.png");
+}
+
+.leikmadur0 {
+    -fx-background-image: url("myndir/leikmadur0.png");
+}
+
+.leikmadur1 {
+    -fx-background-image: url("myndir/leikmadur1.png");
+}
+
+.one {
+    -fx-background-image: url("myndir/one.png");
+}
+
+.two {
+    -fx-background-image: url("myndir/two.png");
+}
+
+.three {
+    -fx-background-image: url("myndir/three.png");
+}
+
+.four {
+   -fx-background-image: url("myndir/four.png");
+}
+
+.five {
+   -fx-background-image: url("myndir/five.png");
+}
+
+.six {
+    -fx-background-image: url("myndir/six.png");
+}
+
+.redone {
+    -fx-background-image: url("myndir/redone.png");
+}
+
+.redtwo {
+    -fx-background-image: url("myndir/redtwo.png");
+}
+
+.redthree {
+    -fx-background-image: url("myndir/redthree.png");
+}
+
+.redfour {
+   -fx-background-image: url("myndir/redfour.png");
+}
+
+.redfive {
+   -fx-background-image: url("myndir/redfive.png");
+}
+
+.redsix {
+    -fx-background-image: url("myndir/redsix.png");
+}
+
+.blueone {
+    -fx-background-image: url("myndir/blueone.png");
+}
+
+.bluetwo {
+    -fx-background-image: url("myndir/bluetwo.png");
+}
+
+.bluethree {
+    -fx-background-image: url("myndir/bluethree.png");
+}
+
+.bluefour {
+   -fx-background-image: url("myndir/bluefour.png");
+}
+
+.bluefive {
+   -fx-background-image: url("myndir/bluefive.png");
+}
+
+.bluesix {
+    -fx-background-image: url("myndir/bluesix.png");
+}
+
+.yellowone {
+    -fx-background-image: url("myndir/yellowone.png");
+}
+
+.yellowtwo {
+    -fx-background-image: url("myndir/yellowtwo.png");
+}
+
+.yellowthree {
+    -fx-background-image: url("myndir/yellowthree.png");
+}
+
+.yellowfour {
+   -fx-background-image: url("myndir/yellowfour.png");
+}
+
+.yellowfive {
+   -fx-background-image: url("myndir/yellowfive.png");
+}
+
+.yellowsix {
+    -fx-background-image: url("myndir/yellowsix.png");
+}
